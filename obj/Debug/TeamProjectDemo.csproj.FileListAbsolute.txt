@@ -1,0 +1,301 @@
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.Cache
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojResolveAssemblyReference.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.Form1.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojResolveAssemblyReference.cache
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.Cache
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\권동욱\Desktop\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\권동욱\Desktop\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojResolveAssemblyReference.cache
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo (1)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.Cache
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\과목\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo (3)\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojResolveAssemblyReference.cache
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.Cache
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\권동욱\Desktop\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojResolveAssemblyReference.cache
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.Cache
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\권동욱\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojResolveAssemblyReference.cache
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.Cache
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\MySql.Data.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\hdycg\Documents\Visual Studio 2015\Projects\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\권동욱\Desktop\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\권동욱\Desktop\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CopyComplete
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\MySql.Data.dll
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CopyComplete
+C:\Users\권동욱\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\bin\Debug\MySql.Data.dll
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CopyComplete
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\독수리\TeamProjectDemo2\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\bin\Debug\MySql.Data.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\MySql.Data.dll
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CopyComplete
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\MySql.Data.dll
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CopyComplete
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo (2)\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\TeamProjectDemo\bin\Debug\Model\Item.cs
+C:\Users\woojin\Desktop\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\TeamProjectDemo\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\TeamProjectDemo\bin\Debug\MySql.Data.dll
+C:\Users\woojin\Desktop\TeamProjectDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\woojin\Desktop\TeamProjectDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\woojin\Desktop\TeamProjectDemo\bin\Debug\MySql.Data.xml
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.csproj.CopyComplete
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\TeamProjectDemo\obj\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\bin\Debug\Model\Item.cs
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.exe
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.pdb
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\bin\Debug\MySql.Data.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\bin\Debug\Google.Protobuf.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\bin\Debug\MySql.Data.xml
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csprojResolveAssemblyReference.cache
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csproj.GenerateResource.Cache
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.exe
+C:\Users\wldnj\OneDrive\바탕 화면\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\bin\Debug\Model\Item.cs
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.pdb
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\bin\Debug\MySql.Data.dll
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\bin\Debug\Google.Protobuf.dll
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\bin\Debug\MySql.Data.xml
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csproj.CopyComplete
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.exe
+C:\Users\woojin\Desktop\과목\3학년 1학기\C#\팀플\TeamProjectDemo\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.pdb
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\bin\Debug\Model\Item.cs
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.exe.config
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.exe
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\bin\Debug\TeamProjectDemo.pdb
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\bin\Debug\Google.Protobuf.dll
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\bin\Debug\MySql.Data.xml
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csprojAssemblyReference.cache
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.GameOver.resources
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.HelpMenu.resources
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.RankMenu.resources
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.MenuForm.resources
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.ViewForm.resources
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.Properties.Resources.resources
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csproj.GenerateResource.cache
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.csproj.CopyComplete
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.exe
+C:\Users\parkwoojin\source\repos\TeamProjectDemoOO\obj\Debug\TeamProjectDemo.pdb
